@@ -1,9 +1,13 @@
 # Proxy IP Test
 
 1 - Open terminal
+
 2 - Put python "localization\proxytest.py"
+
 3 - Choose the file with Proxy Ips ex: 1.1.1.1:8080
+
 4 - Wait to finish
+
 5 - Will be created a file with the name working.txt with all ips that works.
 
 **Contributing**
